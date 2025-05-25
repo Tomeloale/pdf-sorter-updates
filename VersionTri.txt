@@ -1,2 +1,2 @@
 1.1
-https://tonlien.com/MonInstallateur.exe
+https://github.com/Tomeloale/pdf-sorter-updates/releases/download/v1.1/Tri_PDF.exe
